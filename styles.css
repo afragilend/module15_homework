@@ -1,0 +1,25 @@
+body {
+    background-color: #cdeccd;
+}
+
+#chatWindow {
+    background-color: #ffffff;
+    padding: 10px;
+    margin-bottom: 10px;
+    height: 200px;
+    overflow: auto;
+}
+
+input[type="text"],
+button {
+    padding: 5px;
+    margin-bottom: 5px;
+    color: #ffffff;
+    background-color: #66bb6a;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #449d44;
+}
